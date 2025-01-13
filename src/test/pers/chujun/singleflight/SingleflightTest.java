@@ -1,6 +1,6 @@
-package pers.chujun.singleflight.test;
+package test.pers.chujun.singleflight;
 
-import pers.chujun.singleflight.main.Singleflight;
+import main.pers.chujun.singleflight.Singleflight;
 import org.junit.jupiter.api.Test;
 
 import java.util.concurrent.CountDownLatch;

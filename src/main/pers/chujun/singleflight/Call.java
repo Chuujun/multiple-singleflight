@@ -1,4 +1,4 @@
-package pers.chujun.singleflight.main;
+package main.pers.chujun.singleflight;
 
 import java.util.concurrent.CountDownLatch;
 
